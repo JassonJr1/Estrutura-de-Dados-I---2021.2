@@ -1,8 +1,5 @@
 /*
 3160 - Amigos
-> Cassiano Rodrigues
-> 07/04/2021
-*/
 
 typedef struct dataNode
 {
